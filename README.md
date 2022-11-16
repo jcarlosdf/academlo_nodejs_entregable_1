@@ -1,4 +1,4 @@
-*** ENTREGABLE 1 NODEJS ACADEMLO
+### ENTREGABLE 1 NODEJS ACADEMLO
 
 This is a script to create a PostgresSQL database
 Contain the follow entities tables:
@@ -10,7 +10,7 @@ Contain the follow entities tables:
 2. Courses
     1. Title
     2. Description
-    3. Level (Si es para principiantes, medios o avanzados)
+    3. Level (beginner, intermediate o advanced)
     4. Teacher
 3. Course Video
     1. Title
@@ -22,4 +22,4 @@ Contain the follow entities tables:
 
 
 
-Additionally you can view information about courses and how these relating to users
+** Additionally you can view information about courses and how these relating to users **
