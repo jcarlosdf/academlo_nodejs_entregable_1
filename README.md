@@ -22,4 +22,4 @@ Contain the follow entities tables:
 
 
 
-** Additionally you can view information about courses and how these relating to users **
+**Additionally you can view information about courses and how these relating to users**
